@@ -1,5 +1,5 @@
 # SelectionCaseSwitcher
-Switches character case of the selected text virtually in any window.
+Switches character case in the selected text virtually in any window.
 
 No installation required for executables. Just download SelectionCaseSwitcher-x86.exe or SelectionCaseSwitcher-x64.exe and start it.
 To use the script (an ahk file), please download and install AutoHotkey_L from http://www.autohotkey.com
