@@ -1,4 +1,4 @@
-# selection-case-switcher
+# SelectionCaseSwitcher
 Switches character case of the selected text virtually in any window.
 
 No installation required for executables. Just download SelectionCaseSwitcher-x86.exe or SelectionCaseSwitcher-x64.exe and start it.
